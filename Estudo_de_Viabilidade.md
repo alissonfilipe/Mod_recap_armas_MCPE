@@ -45,6 +45,13 @@ Se sim, algumas mudanças poderiam ajudar:
 - Linha poderia ser usada para criar utensílios de escalada (ex: "garras" para os pés)
 - Essas garras permitiriam subir em árvores retas e finas
 
+## 🐺 Ideia de Novo Mob: Warg
+
+Inspirado por **Pedro Perg**, os **Wargs** seriam lobos gigantes com um visual monstruoso e intimidador. Eles teriam um "zuquinho meu osso monstruoso", representando uma criatura selvagem e feroz.
+
+Esse mob traria uma sensação de ameaça real nas florestas mais densas ou montanhas, podendo ser usado como predador natural em ecossistemas mais avançados dentro do jogo.
+
+
 ---
 
 > 🔗 [TerraFirmaCraft no CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft)
