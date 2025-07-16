@@ -99,5 +99,9 @@ O machado de pedra representa o início da eficiência na coleta de madeira e no
 
 
 
-# links importantes
-https://www.piskelapp.com/p/create/sprite/
+# 🔗 Links Importantes
+
+- [🎨 Piskel App – Editor de Sprites e Animações](https://www.piskelapp.com/p/create/sprite/)  
+  Ferramenta online gratuita para criar **skins**, **sprites** e **animações** em pixel art. Ideal para desenvolvimento de mobs, personagens e itens personalizados para Minecraft ou outros projetos de jogos.
+
+
